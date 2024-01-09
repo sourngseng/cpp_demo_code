@@ -27,6 +27,14 @@ int main() {
 
     result = !(5 == 5);    // false
     cout << "!(5 == 5) is " << result << endl;
+ 
+    string password;
+    cout<<"Enter your password:";
+    getline(cin,password);
+     if(password=="123"){
+        cout<<"Welcome to my ...";
+    }
+
 
     return 0;
 }

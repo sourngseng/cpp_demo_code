@@ -5,8 +5,7 @@ int main(){
 	float score;
 	char grade;
 	cout<<"Enter Score :";
-	cin>>score;
-	
+	cin>>score;	
 	if(score>90){
 		grade='A';
 	}else if(score>80){
@@ -21,6 +20,7 @@ int main(){
 		grade='F';
 	}
 	
-	cout<<"Your Score is: "<<score<<" and GRADE : "<<grade<<endl;	
+	cout<<"Your Score is: "<<score
+	<<" and GRADE : "<<grade<<endl;	
 	return(0);
 }

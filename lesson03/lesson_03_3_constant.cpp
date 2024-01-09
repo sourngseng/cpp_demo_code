@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-	const int minutPerHour=60; // contant mean read-only variable
+	// contant mean read-only variable
+	const int minutPerHour=60; 
 	const float PI=3.1416;
 	
 	cout<<"Now PI="<<PI<<endl;	

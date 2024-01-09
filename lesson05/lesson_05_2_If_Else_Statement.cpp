@@ -23,8 +23,7 @@ int main(){
 	}else{
 		cout<<"\t When if false.."<<endl;
 		cout<<"\t Now "<<a<<" < "<<b<<endl;
-	}	
-	
+	}		
 	return(0);
 }
 

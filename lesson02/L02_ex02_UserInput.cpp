@@ -6,6 +6,8 @@ int main(){
 	// បង្កើតអថេរ ឈ្មោះ a,b និង sum ដែលមានប្រភេទទិន្ន​ន័យជាចំនួនគត់ 
 	// declear variables a,b and sum as integer 
 	int a,b,sum;
+    int x,y,sub;
+    
 	
 	// បញ្ចូលតម្លៃទៅអោយ a និង b
 	//Input Data to varibale a and b;

@@ -1,7 +1,8 @@
+//File Name: L03_ex02_createVariable.cpp
 #include<iostream>
 using namespace std;
 int main(){
-	//declear varibale
+	//បង្កើតអថេរទាំងអស់ជា String
 	string pid,first_name,last_name,gender,address1,address2;
 	int age;
 	float totalScore;
